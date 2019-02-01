@@ -1,51 +1,58 @@
 {
-  "projects": [
+  "slidesInfo": [
     {
-      "title": "Project 1",
-      "success": true,
-      "groups": [
-        {
-          "title": "Group 1",
-          "success": true,
-          "checks": [
-            {
-              "title": "Check 1",
-              "status": "error",
-              "success": false,
-              "data": {
-                "data": "ok",
-                "fix": "error"
-              }
-            },
-            {
-              "title": "Check 2",
-              "status": "success",
-              "success": true,
-              "data": {
-                "data": "ok",
-                "fix": "error"
-              }
-            },
-            {
-              "title": "Check 3",
-              "status": "success",
-              "success": true,
-              "data": {
-                "data": "ok",
-                "fix": "error"
-              }
-            },
-            {
-              "title": "Check 4",
-              "status": "error",
-              "success": false,
-              "data": {
-                "data": "ok",
-                "fix": "error"
-              }
-            }
-          ]
-        }
+      "id": 1,
+      "image": "http://lorempixel.com/900/600/",
+      "text1": "Доставим",
+      "text2": "Бесплатно",
+      "text3": "При заказе всего комплекса мебели в нашей студии"
+    },
+    {
+      "id": 2,
+      "image": "http://lorempixel.com/900/600/",
+      "text1": "Соберем",
+      "text2": "Со скидкой",
+      "text3": "При звонке прямо сейчас"
+    }
+  ],
+  "infoBlock": {
+    "titleLight": "Дизайн студия",
+    "titleBold": "Plumberry",
+    "blocks": [
+      {
+        "icon": "key",
+        "text": "Возможность реализовать интерьер мечты  «под ключ» — от проекта до декора"
+      },
+      {
+        "icon": "tree",
+        "text": "Использование только современных, экологически безопасных и лицензированных материалов"
+      },
+      {
+        "icon": "search",
+        "text": "Постоянный мониторинг современных тенденций дизайна и промышленных технологий"
+      }
+    ]
+  },
+  "sliderBlock": [
+    {
+      "icon": "bed",
+      "titleLight": "Гостинные",
+      "titleBold": "Plumberry",
+      "subTitle": "Проекты, выполенные нами с любовью",
+      "images": [
+        "http://lorempixel.com/900/600/",
+        "http://lorempixel.com/900/600/",
+        "http://lorempixel.com/900/600/",
+        "http://lorempixel.com/900/600/"
+      ],
+      "types": [
+        "Модерн",
+        "Барокко",
+        "Минимализм",
+        "Хай-тек",
+        "Авангард",
+        "Лофт",
+        "Экологичный стиль"
       ]
     }
   ]
