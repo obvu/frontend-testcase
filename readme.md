@@ -4,6 +4,10 @@
 
 https://docs.google.com/document/d/1jROWZ4wahCxiyTja65kM6-eUUTUN-2Hpp6dm7-NtJsc/edit?usp=sharing
 
+Чтобы получить данные по api необходимо делать get запрос на адрес
+
+https://raw.githubusercontent.com/obvu/frontend-testcase/master/apidata.json
+
 
 В `apidata.json` расположен "ответ" от api сервера для отображение информации с подключением к backend api
 

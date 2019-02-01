@@ -2,14 +2,12 @@
   "baseApiFilesUrl": "https://raw.githubusercontent.com/obvu/frontend-testcase/master/",
   "slidesInfo": [
     {
-      "id": 1,
       "image": "files/Слайдер/Гостиная1.png",
       "text1": "Доставим",
       "text2": "Бесплатно",
       "text3": "При заказе всего комплекса мебели в нашей студии"
     },
     {
-      "id": 2,
       "image": "files/Слайдер/гостинная лофт.jpg",
       "text1": "Соберем",
       "text2": "Со скидкой",
