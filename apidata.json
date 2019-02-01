@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "title": "Project 1",
+      "success": true,
+      "groups": [
+        {
+          "title": "Group 1",
+          "success": true,
+          "checks": [
+            {
+              "title": "Check 1",
+              "status": "error",
+              "success": false,
+              "data": {
+                "data": "ok",
+                "fix": "error"
+              }
+            },
+            {
+              "title": "Check 2",
+              "status": "success",
+              "success": true,
+              "data": {
+                "data": "ok",
+                "fix": "error"
+              }
+            },
+            {
+              "title": "Check 3",
+              "status": "success",
+              "success": true,
+              "data": {
+                "data": "ok",
+                "fix": "error"
+              }
+            },
+            {
+              "title": "Check 4",
+              "status": "error",
+              "success": false,
+              "data": {
+                "data": "ok",
+                "fix": "error"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
